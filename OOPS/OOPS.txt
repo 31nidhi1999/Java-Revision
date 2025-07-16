@@ -1,0 +1,14 @@
+Abstration 
+    ---The process of hiding the complex implementation and showing essential feature to users.
+    ---Abstract classes method must be implement in sub classes
+
+    -- How to achive abstraction in java?
+    ---Abstract classes (partial)
+    ---Interface (full)
+
+Encapsulation
+    --- binding the data members and methods into a one unit called class.
+    --- restricting the data to another object.
+
+    
+    
