@@ -6,4 +6,9 @@ Abstration
     ---Abstract classes (partial)
     ---Interface (full)
 
+Encapsulation
+    --- binding the data members and methods into a one unit called class.
+    --- restricting the data to another object.
+
+    
     
